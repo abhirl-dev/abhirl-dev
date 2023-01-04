@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhirl-dev
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning spring boot and angular
-- 💞️ I’m looking to collaborate on angular
+- 🌱 I’m currently working on spring boot and angular
+- 💞️ I’m looking to collaborate on React js
 - 📫 How to reach me
 
 <!---
