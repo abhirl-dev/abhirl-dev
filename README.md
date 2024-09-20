@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 🤝 I’m looking for help with **Kotlin**
+- 🤝 I’m looking for someone to help with **Kotlin**
 
 - 💬 Ask me about **Java, Spring**
 
