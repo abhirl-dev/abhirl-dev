@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abhi</h1>
+<h1 align="center">Hi 👋, I'm ABHI</h1>
 <h3 align="center">A free lancing full stack developer</h3>
 
-- 🔭 I’m currently working on **React**
+- I’m currently working on **Java Spring Boot**
 
-- 🌱 I’m currently learning **Kotlin, Android**
+- I’m currently learning **Kotlin, Android**
 
-- 👯 I’m looking to collaborate on **React**
+- I’m looking to collaborate on **React**
 
-- 🤝 I’m looking for someone to help me with **Kotlin**
+- I’m looking for someone to help me with **Kotlin**
 
-- 💬 Ask me about **Java, Spring**
+- Ask me about **Java, Spring**
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <h3 align="left">Languages and Tools:</h3>
